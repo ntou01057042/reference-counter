@@ -1,0 +1,5 @@
+# ninja log v5
+3	483	7376275069470910	CMakeFiles/reference_counter.dir/main.cpp.obj	b56bfb625fe8ef25
+32	557	7376278706731510	CMakeFiles/reference_counter.dir/stack.cpp.obj	58c12433dd6eadd1
+25	578	7376278706946449	CMakeFiles/reference_counter.dir/main.cpp.obj	b56bfb625fe8ef25
+578	752	7376278708610588	reference_counter.exe	c846aa59dd2ab46c
